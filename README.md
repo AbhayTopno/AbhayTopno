@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd-year B.Tech student at NIT Jamshedpur, passionate about web development and eager to explore the world of open-source contributions. I have a strong interest in Data Structures and Algorithms (DSA) and enjoy solving complex problems. Constantly learning and improving, I aim to build impactful projects and contribute to the tech community. 🚀
+I am a 3rd-year B.Tech student at NIT Jamshedpur, passionate about web development and eager to explore the world of open-source contributions. I have a strong interest in Data Structures and Algorithms (DSA) and enjoy solving complex problems. Constantly learning and improving, I aim to build impactful projects and contribute to the tech community. 🚀
 
 
 ## 🌐 Socials:
